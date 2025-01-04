@@ -1,6 +1,6 @@
 # Live Agile Wiki
 
-Welcome to the **Live Agile Wiki**, an evolving framework designed to foster collaboration, alignment, and personal grounding and understanding within teams. This repository reimagines agile principles to meet the needs of community-driven environments and uncertain times.
+Welcome to the **Live Agile Wiki**, an evolving framework designed to foster collaboration, alignment, personal grounding and understanding within teams. This repository reimagines agile principles to meet the needs of community-driven environments and uncertain times.
 
 ## What is Live Agile?
 
