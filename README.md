@@ -12,7 +12,7 @@ Welcome to the **Live Agile Wiki**, an evolving framework designed to foster col
 This approach is at the heart of [Communi.Team](https://www.communi.team), a platform dedicated to building aligned and thriving teams.
 
 ## Features
-- **Shared Language**:  [Domain Language](wiki/Domain Language.md) introduces reimagined terminology to better reflect collaborative and growth-oriented practices.
+- **Shared Language**:  [Domain Language](https://github.com/marvinfray/live-agile/blob/main/Domain%20Language.md) introduces reimagined terminology to better reflect collaborative and growth-oriented practices.
 - **Core Ceremonies**: Supports key practices like daily check-ins, visioning sessions, and reflection meetings.
 - **Alignment with our Nested Goal Framework**: Encourages long-term planning through tools like season planning sessions.
 
