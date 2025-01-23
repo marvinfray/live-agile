@@ -15,7 +15,8 @@ This approach is at the heart of [Communi.Team](https://www.communi.team), a pla
 - **Shared Language**:  [Domain Language](wiki/Domain%20Language.md) introduces reimagined terminology to better reflect collaborative and growth-oriented practices.
 - **Core Ceremonies**: Supports key practices like daily check-ins, visioning sessions, and reflection meetings.
 - **Alignment with our Nested Goal Framework**: Encourages long-term planning through tools like season planning sessions.
-
+  - Use the nested goal template (WIP) to set and track your goals:  [tools/1077 - Nested Goal Tracker [Template].xlsx](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Fmarvinfray%2Flive-agile%2Frefs%2Fheads%2Fmain%2Ftools%2F1077%2520-%2520Nested%2520Goal%2520Tracker%2520%255BTemplate%255D.xlsx&wdOrigin=BROWSELINK)
+    
 ## How to Use
 1. Explore the Wiki for guidelines, principles, and practices that align with Live Agile.
 2. Integrate these practices into your team’s workflows.
