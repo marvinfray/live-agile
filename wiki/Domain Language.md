@@ -1,4 +1,19 @@
-This page outlines the domain language for the **Live Agile** framework, designed to support the vision and mission of Communi.Team. The language reflects a focus on community, collaboration, personal development, and alignment, moving beyond traditional agile terminology to embody Living Agile principles.
+# Domain Language (Historical)
+
+> **Note**: This document represents an earlier iteration of Live Agile and is preserved for historical context and reference.
+>
+> **For current practices**, please use the updated framework documented in the main guide:
+> - [Core Components](../2_Framework_Overview/Core_Components.md) — The Wake, The Surface, The Current, The Horizon
+> - [Getting Started](../1_Introduction/Getting_Started.md) — Begin your Live Agile practice
+> - [FAQ](../1_Introduction/FAQ.md) — Understand how the frameworks relate
+>
+> **What changed**: The current framework uses presence-oriented language (The Wake, The Surface, etc.) rather than role-oriented language (Vision Keeper, Team Guide, etc.). See the [Glossary](../1_Introduction/Glossary.md) for terminology evolution.
+
+---
+
+## Historical Domain Language
+
+This page outlines the earlier domain language for the **Live Agile** framework, designed to support the vision and mission of Communi.Team. The language reflects a focus on community, collaboration, personal development, and alignment, moving beyond traditional agile terminology.
 
 Key Principles
 --------------
