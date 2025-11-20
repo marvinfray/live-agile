@@ -34,7 +34,7 @@ For questions or suggestions, open an issue or contact us via [Communi.Team](htt
 
 ## Related Resources
 - [Communi.Team](https://www.communi.team) A platform dedicated to fostering collaboration, alignment, and personal growth within teams. Developed by [Wundr Space](https://www.wundr.space), our vision is to create thriving communities through shared understanding and purpose, while our mission focuses on empowering individuals and teams to align with their collective goals.
-- [Living Agile: A Framwork for Collaborative Growth](https://www.communi.team/post/living-agile-a-framework-for-collaborative-growth) by Marvin Fray, sharing the inspiration behind Live Agile.
+- [Living Agile: A Framework for Collaborative Growth](https://www.communi.team/post/living-agile-a-framework-for-collaborative-growth) by Marvin Fray, sharing the inspiration behind Live Agile.
 
 ## License
 This work is licensed under the **Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)** license. For details, visit [Creative Commons](http://creativecommons.org/licenses/by-sa/4.0/).

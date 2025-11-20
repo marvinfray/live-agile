@@ -13,5 +13,5 @@ The Weekly Review is a moment of truth and integration.
 7. Identify gentle carry‑forwards.
 
 ## Facilitator Script (Example)
-"Let’s take a moment to acknowledge the movement of this week, without judgement.
-What changed? What learned you learned? What can be released?"
+"Let's take a moment to acknowledge the movement of this week, without judgement.
+What changed? What have you learned? What can be released?"
